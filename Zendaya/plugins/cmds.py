@@ -2,7 +2,7 @@
 
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
-from bot.translation import Translation # pylint: disable=import-error
+from Zendaya.spiderman import Spiderman # pylint: disable=import-error
 
 @Client.on_message(filters.command("start") & filters.private)
 async def start(bot, update):
