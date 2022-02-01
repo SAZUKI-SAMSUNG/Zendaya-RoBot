@@ -1,6 +1,6 @@
 # coding by @lallu_tg
 
-from .zandaya import Zandaya
+from .bot import Bot
 
 app = Bot()
 app.run()
