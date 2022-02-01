@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+#codes added by @lallu_tg
 
 class Spiderman(object):
     
