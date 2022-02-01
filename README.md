@@ -6,5 +6,5 @@
 [![Deploy](https://telegra.ph/file/fb033f0bb54277ea9682d.jpg)](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/AutoFilterBot)
 
 
-### Deploy to Heroku
-[![Deploy](https://www.heroku.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/Zendaya-RoBot)
+## DEPLOY ON HEROKU
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/Zendaya-RoBot)
