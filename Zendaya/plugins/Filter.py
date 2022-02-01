@@ -12,7 +12,7 @@ from pyrogram.errors import UserAlreadyParticipant, FloodWait
 
 from Zenadaya.bot import Bot
 from spiderman. import Spiderman
-from Zenadaya.Database.database import Database
+from Database.database import Database
 
 db = Database () 
 result = []
