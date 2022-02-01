@@ -1,7 +1,7 @@
 #coding by @lallu_tg
 
 import motor.motor_asyncio
-from bot import DB_URI
+from Zanadaya import DB_URI
 
 class Singleton(type):
     __instances__ = {}
